@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment(04-02-2018)</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="err_no_internet">You don\'t have Internet Connection,\nCross check your Internet Connection.</string>
+    <string name="btn_Setting">Settings</string>
+    <string name="btn_Cancel">Cancel</string>
+</resources>
